@@ -1,2 +1,4 @@
-# f4-window
-F4 window assembly
+# F4 window
+
+F4 window assembly created with FreeCAD, using the built-in Assembly Workbench.
+
